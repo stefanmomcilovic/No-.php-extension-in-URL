@@ -9,9 +9,9 @@
 </head>
 <body>
 <ul>
-        <li><a href="index">Home</a></li>
-        <li><a href="blog?id=244">Blog</a></li>
-        <li><a href="about">About</a></li>
+        <li><a href="./../index.php">Home</a></li>
+        <li><a href="./../blog.php?id=244">Blog</a></li>
+        <li><a href="./../about.php">About</a></li>
     </ul>
 
     <h1>Admin home page</h1>
